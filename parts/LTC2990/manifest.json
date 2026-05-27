@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/LTC2990:LTC2990",
+  "name": "LTC2990",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/LTC2990.kicad_sym",
+  "description": "Temperature Voltage and Current Monitor, I2C Interface, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2990.pdf",
+  "keywords": "Temperature Voltage Current Monitor I2C AFE",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/LTC2990/",
+  "part_path": "parts/LTC2990",
+  "symbol_file": "parts/LTC2990/LTC2990.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.956Z"
+}

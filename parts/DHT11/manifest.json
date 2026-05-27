@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/DHT11:DHT11",
+  "name": "DHT11",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/DHT11.kicad_sym",
+  "description": "3.3V to 5.5V, temperature and humidity module, DHT11",
+  "datasheet": "http://akizukidenshi.com/download/ds/aosong/DHT11.pdf",
+  "keywords": "digital sensor",
+  "footprint": "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/DHT11/",
+  "part_path": "parts/DHT11",
+  "symbol_file": "parts/DHT11/DHT11.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.954Z"
+}

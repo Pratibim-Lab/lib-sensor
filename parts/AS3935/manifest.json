@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/AS3935:AS3935",
+  "name": "AS3935",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/AS3935.kicad_sym",
+  "description": "Programmable fully integrated Lightning Sensor IC",
+  "datasheet": "https://www.embeddedadventures.com/datasheets/AS3935_Datasheet_EN_v2.pdf",
+  "keywords": "lightning sensor",
+  "footprint": "Package_DFN_QFN:MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/AS3935/",
+  "part_path": "parts/AS3935",
+  "symbol_file": "parts/AS3935/AS3935.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.946Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/MAX30102:MAX30102",
+  "name": "MAX30102",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/MAX30102.kicad_sym",
+  "description": "Heart Rate Sensor, 14-OLGA",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf",
+  "keywords": "Heart Rate",
+  "footprint": "OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/MAX30102/",
+  "part_path": "parts/MAX30102",
+  "symbol_file": "parts/MAX30102/MAX30102.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.958Z"
+}

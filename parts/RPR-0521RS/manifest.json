@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/RPR-0521RS:RPR-0521RS",
+  "name": "RPR-0521RS",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/RPR-0521RS.kicad_sym",
+  "description": "Digital Proximity and Ambient Light Sensor",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-e.pdf",
+  "keywords": "sensor light",
+  "footprint": "Sensor:Rohm_RPR-0521RS",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/RPR-0521RS/",
+  "part_path": "parts/RPR-0521RS",
+  "symbol_file": "parts/RPR-0521RS/RPR-0521RS.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.961Z"
+}

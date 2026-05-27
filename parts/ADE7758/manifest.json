@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/ADE7758:ADE7758",
+  "name": "ADE7758",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/ADE7758.kicad_sym",
+  "description": "Poly Phase Multifunction Energy Metering, SO-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADE7758.pdf",
+  "keywords": "Energy Metering",
+  "footprint": "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/ADE7758/",
+  "part_path": "parts/ADE7758",
+  "symbol_file": "parts/ADE7758/ADE7758.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.937Z"
+}

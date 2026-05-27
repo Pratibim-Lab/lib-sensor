@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/CHT11:CHT11",
+  "name": "CHT11",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/CHT11.kicad_sym",
+  "description": "Temperature and humidity module",
+  "datasheet": "http://aosong.com/en/products-21.html",
+  "keywords": "Digital temperature humidity sensor",
+  "footprint": "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm",
+  "extends": "DHT11",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/CHT11/",
+  "part_path": "parts/CHT11",
+  "symbol_file": "parts/CHT11/CHT11.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.952Z"
+}

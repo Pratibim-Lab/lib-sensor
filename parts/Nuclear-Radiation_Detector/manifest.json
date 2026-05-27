@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/Nuclear-Radiation_Detector:Nuclear-Radiation_Detector",
+  "name": "Nuclear-Radiation_Detector",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/Nuclear-Radiation_Detector.kicad_sym",
+  "description": "Generic radiation detector",
+  "datasheet": "",
+  "keywords": "nuclear ionising radiation sensor geiger mueller muller tube neutron counter ionization chamber",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/Nuclear-Radiation_Detector/",
+  "part_path": "parts/Nuclear-Radiation_Detector",
+  "symbol_file": "parts/Nuclear-Radiation_Detector/Nuclear-Radiation_Detector.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.959Z"
+}

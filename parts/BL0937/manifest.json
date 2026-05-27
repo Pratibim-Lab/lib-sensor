@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/BL0937:BL0937",
+  "name": "BL0937",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/BL0937.kicad_sym",
+  "description": "Single Phase Energy Meter IC with Integrated Oscillator, JEITA SOIC-8 (SOP-8)",
+  "datasheet": "https://www.belling.com.cn/media/file_object/bel_product/BL0937/datasheet/BL0937_V1.02_en.pdf",
+  "keywords": "current sensor",
+  "footprint": "Package_SO:JEITA_SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/BL0937/",
+  "part_path": "parts/BL0937",
+  "symbol_file": "parts/BL0937/BL0937.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.948Z"
+}

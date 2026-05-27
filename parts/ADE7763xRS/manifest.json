@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/ADE7763xRS:ADE7763xRS",
+  "name": "ADE7763xRS",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/ADE7763xRS.kicad_sym",
+  "description": "Single-Phase Active and Apparent Energy Metering, SSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADE7763.pdf",
+  "keywords": "Energy Metering",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/ADE7763xRS/",
+  "part_path": "parts/ADE7763xRS",
+  "symbol_file": "parts/ADE7763xRS/ADE7763xRS.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.940Z"
+}

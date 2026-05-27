@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/AM2302:AM2302",
+  "name": "AM2302",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/AM2302.kicad_sym",
+  "description": "3.3 to 5.0V, Temperature and humidity module,  DHT22, AM2302",
+  "datasheet": "http://akizukidenshi.com/download/ds/aosong/AM2302.pdf",
+  "keywords": "digital sensor",
+  "footprint": "Sensor:ASAIR_AM2302_P2.54mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/AM2302/",
+  "part_path": "parts/AM2302",
+  "symbol_file": "parts/AM2302/AM2302.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.944Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/SHT1x:SHT1x",
+  "name": "SHT1x",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/SHT1x.kicad_sym",
+  "description": "Temperature and humidity module",
+  "datasheet": "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT1x_Datasheet.pdf",
+  "keywords": "digital temperature humidity sensor",
+  "footprint": "Sensor:SHT1x",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/SHT1x/",
+  "part_path": "parts/SHT1x",
+  "symbol_file": "parts/SHT1x/SHT1x.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.962Z"
+}

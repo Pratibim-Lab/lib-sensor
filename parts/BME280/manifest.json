@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/BME280:BME280",
+  "name": "BME280",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/BME280.kicad_sym",
+  "description": "3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",
+  "datasheet": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf",
+  "keywords": "Bosch pressure humidity temperature environment environmental measurement digital",
+  "footprint": "Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/BME280/",
+  "part_path": "parts/BME280",
+  "symbol_file": "parts/BME280/BME280.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.949Z"
+}

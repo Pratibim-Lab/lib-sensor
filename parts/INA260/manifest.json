@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/INA260:INA260",
+  "name": "INA260",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/INA260.kicad_sym",
+  "description": "Current/power/voltage monitor with Integrated 2mΩ Shunt Resistor, 2.7V - 5.5V, I2C, TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina260.pdf",
+  "keywords": "Current/power/voltage monitor",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/INA260/",
+  "part_path": "parts/INA260",
+  "symbol_file": "parts/INA260/INA260.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.955Z"
+}

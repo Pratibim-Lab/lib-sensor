@@ -1,0 +1,17 @@
+{
+  "id": "Sensor/ADE7953xCP:ADE7953xCP",
+  "name": "ADE7953xCP",
+  "library": "Sensor",
+  "file": "Sensor.kicad_symdir/ADE7953xCP.kicad_sym",
+  "description": "Single Phase Multifunction Energy Metering with Neutral Current Measurement, LFCSP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADE7953.pdf",
+  "keywords": "Energy Metering",
+  "footprint": "Package_CSP:LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor@master/parts/ADE7953xCP/",
+  "part_path": "parts/ADE7953xCP",
+  "symbol_file": "parts/ADE7953xCP/ADE7953xCP.kicad_sym",
+  "source_library": "Sensor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:37.942Z"
+}
